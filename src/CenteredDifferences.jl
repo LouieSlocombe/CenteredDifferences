@@ -394,4 +394,7 @@ function Base.convert(::Type{Mat},
 end
 
 Base.convert(::Type{AbstractMatrix}, A::DerivativeOperator) = BandedMatrix(A)
+
+export CenteredDifference
+
 end
