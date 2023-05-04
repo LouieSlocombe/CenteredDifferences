@@ -3,6 +3,12 @@ uuid = "c90fe1c6-2f96-401d-ae77-e500ce532cc4"
 authors = ["Louie SLocombe"]
 version = "1.0.0-DEV"
 
+[deps]
+BandedMatrices = "aae01518-5342-5314-be14-df237901396f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
 [compat]
 julia = "1.8"
 
