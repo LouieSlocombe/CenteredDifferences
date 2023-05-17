@@ -13,7 +13,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 [compat]
 julia = "1.8"
 BandedMatrices = "0.17"
-SciMLBase = "1.91"
+SciMLBase = "1"
 StaticArrays = "1"
 
 [extras]
